@@ -1,0 +1,17 @@
+{
+    "name": "ilhamdev/ipwhitelist",
+    "description": "Simple Ip White List",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "M Ilham Sabar",
+            "email": "ilhamsabar@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ilhamdev\\ipwhitelist\\" : "src"
+        }
+    },
+    "require": {}
+}
